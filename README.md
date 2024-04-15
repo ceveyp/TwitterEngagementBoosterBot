@@ -1,0 +1,3 @@
+# Twitter Engagement Booster Bot for Discord
+
+The bot uses the Twitter v2 API to fetch tweets and engagements (likes, retweets and comments) of last 5 posts from several Twitter accounts. The engagements are stored in a MySQL database. The bot distributes points to users in a discord channel based on their Twitter post engagement activity. The points are distributed to users daily for prizes. The leaderboard command in Discord displays highest earning users.
